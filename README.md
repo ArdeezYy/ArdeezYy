@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Deep+Learning+Enthusiast;NLP+%26+LLM+Explorer;Final+Year+Student+at+Telkom+University;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+LLM+%7C+Cybersecurity+Explorer;Final+Year+Student+at+Telkom+University;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,8 +10,6 @@
 
 <a href="https://github.com/ArdeezYy">
 <img src="https://img.shields.io/badge/GitHub-ArdeezYy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://huggingface.co/Ardeez">
-<img src="https://img.shields.io/badge/🤗-HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"/></a>
 <a href="mailto:lucilferardeezy@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -21,55 +19,54 @@
 
 ## 🧠 About Me
 
-I'm a **Deep Learning practitioner** focused on **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**. Currently a final-year student at **Telkom University**, exploring the frontiers of modern AI through hands-on projects with **Transformers, LoRA, and HuggingFace**.
+I'm a **final-year Computer Science student at Telkom University** with a strong interest in **Machine Learning, Deep Learning, and Cybersecurity**. My work spans from **classical ML (scikit-learn, statistics)** to **modern LLM fine-tuning (BERT, T5, Phi-2)**, plus **hardware-level programming (Verilog, RTOS)** and **web security (cryptography, secure login systems)**.
 
-- 🔭 **Currently working on:** Fine-tuning encoder, encoder-decoder, and decoder-only LLMs (BERT, T5, Phi-2)
-- 🌱 **Learning:** Transformers, efficient fine-tuning (LoRA/QLoRA), RAG systems
-- 💡 **Interests:** NLP, LLM Optimization, Computer Vision, MLOps
-- 🎯 **Goal:** Building production-grade AI systems that solve real-world problems
+- 🔭 **Currently focused on:** NLP, Transformers, and LLM fine-tuning
+- 🌱 **Learning:** RAG systems, efficient fine-tuning (LoRA/QLoRA), MLOps
+- 💡 **Interests:** Deep Learning, Cybersecurity, Embedded Systems, Cryptography
+- 🎯 **Goal:** Building AI systems that solve real-world problems securely
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧪 [Fine-Tuning BERT for NLI (MNLI)](https://github.com/ArdeezYy/Fine-tuning-BERT-for-Natural-Language-Inference-MNLI-)
-Fine-tuning `bert-base-uncased` (109M params) on the **GLUE MNLI** dataset for Natural Language Inference (3-class: entailment, neutral, contradiction).
+### 🧠 Deep Learning & NLP
 
-| Metric | Matched (In-Domain) | Mismatched (Out-of-Domain) |
-|--------|--------------------|------------------------------|
-| **Accuracy** | 0.8023 | 0.8116 |
-| **F1 (weighted)** | 0.8028 | 0.8120 |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎓 [**Grokking Deep Learning**](https://github.com/ArdeezYy/GrokkingDeepLearning) | Code reproduction & notes for all 7 chapters of Andrew Trask's *Grokking Deep Learning* (perceptron → backprop → autoencoders) | `NumPy` `PyTorch` |
+| 🤖 [**Fine-Tuning BERT for NLI (MNLI)**](https://github.com/ArdeezYy/Fine-tuning-BERT-for-Natural-Language-Inference-MNLI-) | Fine-tune `bert-base-uncased` (109M) on GLUE MNLI for Natural Language Inference | `BERT` `Transformers` |
+| 📚 [**Fine-Tuning Phi-2 with LoRA (XSum)**](https://github.com/ArdeezYy/Fine-tuning-Phi-2-with-LoRA-for-text-summarization-XSum-) | Parameter-efficient fine-tuning of `phi-2` (2.7B) on XSum with LoRA + 4-bit quantization | `LoRA` `PEFT` `bitsandbytes` |
 
-**Tech:** `PyTorch` • `HuggingFace Transformers` • `BERT` • `GLUE Benchmark` • `CUDA 12.1`
+### 📊 Machine Learning & Statistics
 
----
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📘 [**Introduction to ML with Python**](https://github.com/ArdeezYy/Introduction-to-Machine-Learning-with-Python) | Code reproduction & theoretical deep-dive | `scikit-learn` |
+| 📗 [**scikit-learn Cookbook (3rd Ed.)**](https://github.com/ArdeezYy/scikit-learn-Cookbook-Third-Edition) | Code reproduction from O'Reilly's scikit-learn Cookbook | `scikit-learn` |
+| 📕 [**Practical Linear Algebra for DS**](https://github.com/ArdeezYy/Practical-Linear-Algebra-for-Data-Science) | Code reproduction and theoretical deep-dive from O'Reilly's book | `NumPy` |
+| 📙 [**Practical Statistics for DS**](https://github.com/ArdeezYy/Practical-Statistics-for-Data-Scientists) | Weekly Assignment 4 — code reproduction and theory | `Statistics` |
+| 🔍 [**Clustering Midterm**](https://github.com/ArdeezYy/Clustering_Midterm) | Unsupervised learning — clustering algorithms | `scikit-learn` |
+| 📈 [**Regression Midterm**](https://github.com/ArdeezYy/Regression_Midterm) | Supervised learning — regression models | `scikit-learn` |
+| 🚨 [**Fraud Detection Midterm**](https://github.com/ArdeezYy/FraudDetection_midterm) | Classification — fraud detection system | `scikit-learn` |
 
-### 📚 [Grokking Deep Learning — Code Reproduction](https://github.com/ArdeezYy/GrokkingDeepLearning)
-Complete code reproduction & notes for all **7 chapters** of Andrew Trask's *Grokking Deep Learning* (Manning). Each notebook contains theory, from-scratch NumPy code, modern PyTorch equivalent, and visualizations.
+### 🔒 Cybersecurity & Cryptography
 
-**Topics covered:** Perceptron → Gradient Descent → Backpropagation → Autoencoders
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛡️ [**CLO 2 Secure Comments**](https://github.com/ArdeezYy/CLO2-Secure-Comments) | Secure vs vulnerable PHP login demo (CLO 2) | `PHP` |
+| 🔐 [**CLO 1 (clo1)**](https://github.com/ArdeezYy/clo1) | Cryptosystem prototype with Next.js + Tailwind | `TypeScript` `Next.js` |
+| 🔑 [**Basic Cryptography**](https://github.com/ArdeezYy/Basic-Cyptography) | Kamsis - Week 3 cryptography exercises | `Python` |
+| 🌐 [**nanda_clo2**](https://github.com/ArdeezYy/nanda_clo2) & [**mawang_clo2**](https://github.com/ArdeezYy/mawang_clo2) | CLO 2 practical submissions | `PHP` |
 
-**Tech:** `NumPy` • `PyTorch` • `Matplotlib` • `Jupyter`
+### 🖥️ Embedded Systems & Hardware
 
----
-
-### 🤖 [Fine-Tuning Phi-2 with LoRA (XSum)](https://github.com/ArdeezYy/Fine-tuning-Phi-2-with-LoRA-for-text-summarization-XSum-)
-Parameter-efficient fine-tuning of `microsoft/phi-2` (2.7B params) on **XSum** for abstractive text summarization using **LoRA** + **4-bit NF4 quantization**.
-
-| Metric | Score |
-|--------|-------|
-| **ROUGE-1** | 0.2333 |
-| **ROUGE-2** | 0.0693 |
-| **ROUGE-L** | 0.1784 |
-
-**Tech:** `PEFT` • `LoRA` • `bitsandbytes` • `4-bit Quantization` • `Phi-2`
-
----
-
-### 🔄 [Fine-Tuning T5 for QA (SQuAD)](#)
-*In progress* — Fine-tuning `t5-base` (220M params) on **SQuAD** for generative question answering.
-
-**Tech:** `T5` • `Seq2Seq` • `Beam Search` • `Beam Search Decoding`
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚦 [**Smart Traffic & Emergency Light (Verilog)**](https://github.com/ArdeezYy/Smart-Traffic-and-Emergency-Light-using-Verilog-Program-) | FPGA traffic light system | `Verilog` |
+| 🏥 [**Smart ICU RTOS**](https://github.com/ArdeezYy/Smart-ICU-RTOS) | Real-Time Operating System for ICU monitoring (C++) | `C++` |
+| 🌐 [**NetPorto**](https://github.com/ArdeezYy/NetPorto) | Network utility project | `Python` |
+| 🛠️ [**hack**](https://github.com/ArdeezYy/hack) | Experimental hacking/security scripts | `Python` |
 
 ---
 
@@ -78,7 +75,7 @@ Parameter-efficient fine-tuning of `microsoft/phi-2` (2.7B params) on **XSum** f
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArdeezYy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeezYy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeezYy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10"/>
 
 </div>
 
@@ -92,28 +89,39 @@ Parameter-efficient fine-tuning of `microsoft/phi-2` (2.7B params) on **XSum** f
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge"/>
+</p>
+
+### AI / ML Frameworks
+<p align="left">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=transformers&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
-### AI / ML Tools
+### Web & Security
 <p align="left">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=transformers&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### Hardware & Infrastructure
+### Hardware & Tools
 <p align="left">
 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Conda-342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -122,20 +130,24 @@ Parameter-efficient fine-tuning of `microsoft/phi-2` (2.7B params) on **XSum** f
 
 ## 🏆 Achievements
 
-- ✅ Built **end-to-end NLP pipelines** for 3 different tasks (classification, QA, summarization)
-- ✅ Fine-tuned models from **109M → 2.7B parameters**
-- ✅ Implemented **LoRA** + **4-bit quantization** for memory-efficient LLM training
+- ✅ **19+ public repositories** spanning ML, DL, Cybersecurity, and Embedded Systems
+- ✅ **Fine-tuned models** from 109M → 2.7B parameters
+- ✅ Implemented **LoRA + 4-bit quantization** for memory-efficient LLM training
 - ✅ Reproduced all 7 chapters of *Grokking Deep Learning* from scratch
-- ✅ Audited & fixed **7 critical bugs** in production code
+- ✅ Built **secure authentication systems** in PHP/Next.js
+- ✅ Developed **RTOS for embedded medical systems** in C++
+- ✅ Designed **FPGA traffic systems** in Verilog
+- ✅ Multiple **O'Reilly book code reproductions** (ML, Statistics, Linear Algebra)
 
 ---
 
-## 📚 Current Learning
+## 📚 Currently Learning
 
 - 📖 **Attention Is All You Need** (Transformer architecture)
 - 📖 **PEFT** library for efficient fine-tuning
 - 📖 **RAG** (Retrieval-Augmented Generation)
 - 📖 **LangChain** for LLM orchestration
+- 📖 **Cryptography** advanced concepts (zero-knowledge proofs, homomorphic encryption)
 
 ---
 
@@ -164,10 +176,10 @@ Parameter-efficient fine-tuning of `microsoft/phi-2` (2.7B params) on **XSum** f
 
 **⭐ From [ArdeezYy](https://github.com/ArdeezYy) with ❤️**
 
-*"The best way to learn is to build."*
+*"Code is poetry. Security is art. Data is wisdom."*
 
 </div>
 
 ---
 
-**Note:** This profile README is auto-generated based on my actual projects. All metrics are real results from training runs, not made up. Visit my repositories for full code, notebooks, and reports.
+**Note:** This profile README showcases my real projects. All metrics are from actual training runs. Visit my repositories for full code, notebooks, and reports.
